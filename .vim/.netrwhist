@@ -1,4 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/home/j15213ks/ns-allinone-2.35/ns-2.35/um-olsr'
-let g:netrw_dirhist_2='/home/j15213ks/Simulation/sm/olsr_Minimum'
